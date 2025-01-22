@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("My-Notes-Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11e768d5d2ae86fe52a5fab853746aa1e965a7a2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2d97aecdc80409435ac29cf6031bc2e0ccb9a04")]
 [assembly: System.Reflection.AssemblyProductAttribute("My-Notes-Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("My-Notes-Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

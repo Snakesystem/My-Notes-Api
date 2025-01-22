@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "My_Notes_Api.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "auth/registrasi",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "My_Notes_Api.RegisterRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
